@@ -59,6 +59,7 @@
 .href-container {
   /* Image */
   cursor: pointer;
+  line-height: 1.8;
   text-decoration: none;
   color: #23388E;
 }
