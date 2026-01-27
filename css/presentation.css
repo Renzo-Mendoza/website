@@ -43,17 +43,30 @@
   line-height: 1.8;
 }
 
+.summary-info-paragraph {
+  /* Paragraph */
+  line-height: 1.8;
+  margin-top: 10px;
+}
+
 .lab-icon-picture {
   /* Picture */
   height: 16px;
   vertical-align: middle;
 }
 
-.lab-icon-container {
+.href-container {
   /* Image */
   cursor: pointer;
   text-decoration: none;
   color: #23388E;
+}
+
+.onclick-icon-picture {
+  /* Picture */
+  height: 16px;
+  vertical-align: middle;
+  margin-bottom: 5px;
 }
 
 .contact-group {
